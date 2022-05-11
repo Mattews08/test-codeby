@@ -122,7 +122,7 @@ export const CardProduct = () => {
         <Container>
             <Box p={4}>
                 <Center fontSize={22} fontWeight="bold">
-                    Meu carinho
+                    Meu carrinho
                 </Center>
             </Box>
 
